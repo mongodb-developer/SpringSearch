@@ -1,6 +1,6 @@
 # SpringSearch – Obsidian Vault Search API
 
-SpringSearch turns your [Obsidian](https://obsidian.md/) vault into a fully searchable knowledge base, powered by **Spring Boot** and **MongoDB Atlas Search**.  
+SpringSearch turns your [Obsidian](https://obsidian.md/) vault into a fully searchable knowledge base, powered by **Spring Boot** and **MongoDB Search**.  
 It supports full-text queries, autocomplete, fuzzy matching, and custom boosting for prioritizing your most relevant notes — all exposed via a simple REST API.
 
 ## Features
