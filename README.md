@@ -35,7 +35,7 @@ spring.data.mongodb.database=obsidian
 notes.folder.path=/path/to/your/vault
 ```
 
-Make sure your MongoDB Atlas cluster has a [Search Index](https://www.mongodb.com/docs/atlas/atlas-search/index-definitions/) with this configuration:
+Make sure your MongoDB cluster has a [Search Index](https://www.mongodb.com/docs/atlas/atlas-search/index-definitions/) with this configuration:
 
 ```json
 {
