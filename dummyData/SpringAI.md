@@ -16,7 +16,7 @@ The framework abstracts away the complexity of working with providers like OpenA
 
 - Integrated OpenAI GPT-4 as a chat model with streaming responses  
 - Used local Ollama model with the `ollama` starter for LLM and embedding  
-- Configured MongoDB Atlas Vector Search as the vector store  use the [[SpringAI API]]
+- Configured MongoDB Vector Search as the vector store  use the [[SpringAI API]]
 - Created a simple RAG-based QA API with `@RestController`  
 - Used `PromptTemplate` and `MessageChatModel` for system-role chat composition  
 
